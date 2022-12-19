@@ -1,0 +1,4 @@
+# prefix,country_code,region_code,city,postal
+178.255.48.0/21,NL,,,
+178.255.54.185/32,NL,NL-LI,Nuth,6361BH
+178.255.48.1/32,DE,DE-NW,Aachen,52062
